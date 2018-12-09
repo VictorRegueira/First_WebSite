@@ -1,0 +1,50 @@
+body{
+    background-color:beige;
+}
+#cabecera{
+    background-color: aqua;
+}
+#menu{
+    background-color: brown;
+}
+#barraLateral{
+    background-color: blue;
+}
+#contenidoPrincipal{
+    
+    background-color: chartreuse;
+    margin-left: 200px;
+    padding-left:20px;
+    padding-top: 10px;
+}
+
+#pieWeb{
+    background-color: yellow;
+    clear: both;
+    margin-top: 100px;
+}
+
+li{
+    
+    background-color: darkgoldenrod;
+    display:inline;
+    
+}
+aside{
+    float: left;
+    height: 1020px;
+    margin-left: 5px;
+}
+
+h2{
+    
+    width: 200px;
+    text-align: center;
+    margin: 10px auto;
+    border:solid;
+    border-radius: 5px;
+    padding: 15px auto;
+    box-shadow: grey 3px 3px 5px;
+    text-shadow: #0000f2 3px 3px 10px;
+    
+}
